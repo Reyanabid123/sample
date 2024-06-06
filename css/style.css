@@ -1,7 +1,13 @@
+@font-face {
+  font-family:Kanit-Black ;
+  src: url(../Kanit-Black.woff2);
+}
+
+
 * {
   margin: 0%;
   padding: 0%;
-font-family:monospace;
+font-family:Kanit-Black;
 
 user-select: none;
 -webkit-user-select: none;
@@ -95,5 +101,5 @@ img{
   left: 3%;
   font-size: 17px;
   color: black;
-  font-family:cursive;
+  font-family:Kanit-Black;
 }
